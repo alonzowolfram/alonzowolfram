@@ -10,3 +10,5 @@ Other projects are coming soon, including an XGBoost machine-learning model for 
 ![MySQL badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Scikit-learn badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+(Badges from [here](https://github.com/alexandresanlim/Badges4-README.md-Profile).)
