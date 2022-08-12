@@ -1,9 +1,13 @@
 # Hello!
 I'm Lon, a biomedical data scientist with interest in health-related problems. I work mostly in R, with a little bit of SQL and Python where necessary.
 
-I am completing my PhD in biomedical sciences with a concentration in Therapeutics and Pharmacology at the University of Texas MD Anderson Cancer Center. My dissertation work involves creating algorithms and pipelines to aid in clinical decision-making for personalized-medicine approaches. Here on my GitHub profile, I share some of my projects, including [implementing network-based scoring functions in R to predict drug efficacy in individual patients](https://github.com/alonzowolfram/network-scores), [discovery of potential ubiquitinases and deubiquitinases of oncogenes](https://github.com/alonzowolfram/ubiquitination-genes), and a [novel algorithm for clustering short peptides based on their sequences](https://github.com/alonzowolfram/peptide-clustering). 
+I am completing my PhD in biomedical sciences with a concentration in Therapeutics and Pharmacology at the University of Texas MD Anderson Cancer Center. My dissertation work involves creating algorithms and pipelines to aid in clinical decision-making for personalized-medicine approaches. Here on my GitHub profile, I share some of my projects, including <br />
+ - :gear: [an XGBoost machine-learning model for drug-combination efficacy prediction, and pre-processing of individual patient gene-expression data for personalized-medicine applications](https://github.com/alonzowolfram/drug-combo-ML-model)<br />
+ - :pill: [implementing network-based scoring functions in R to predict drug efficacy in individual patients](https://github.com/alonzowolfram/network-scores)<br />
+ - :dna: [discovery of potential ubiquitinases and deubiquitinases of oncogenes](https://github.com/alonzowolfram/ubiquitination-genes)<br />
+ - :capital_abcd: [a novel algorithm for clustering short peptides based on their sequences](https://github.com/alonzowolfram/peptide-clustering) 
 
-Other projects are coming soon, including an XGBoost machine-learning model for drug-combination efficacy prediction, and pre-processing of individual patient gene-expression data for personalized-medicine applications. Please check back for updates! 
+Other projects are coming soon!
 
 # Skills
 ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -17,7 +21,8 @@ Other projects are coming soon, including an XGBoost machine-learning model for 
 **Fong, L.W.R.**, Zhang, S. A comparison of network-based scoring methods to identify drug combinations in personalized medicine. Manuscript in revision.<br />
 **Associated GitHub repository [here](https://github.com/alonzowolfram/network-scores).**
 
-**Fong, L.W.R.**, Zhang, S. A transcriptomics-based approach to the identification of drug combinations in personalized medicine. Manuscript in revision.
+**Fong, L.W.R.**, Zhang, S. A transcriptomics-based approach to the identification of drug combinations in personalized medicine. Manuscript in revision.<br />
+**Associated GitHub repository [here](https://github.com/alonzowolfram/drug-combo-ML-model).**
 
 **Fong, L.W.R.**, Lee, J., Lin, H.-K., Ueno, N.T., Zhang, S. A gene signature consisting of ubiquitin ligases and deubiquitinating enzymes of SKP2 is associated with clinical outcome in breast cancer. Sci Rep 12, 2478 (2022).<br />
 **Associated GitHub repository [here](https://github.com/alonzowolfram/ubiquitination-genes).**
@@ -25,6 +30,8 @@ Other projects are coming soon, including an XGBoost machine-learning model for 
 **Fong, L.W.R.**, Huang, B., Chaudhari, R., Zhang, S. Computational modeling of drug oral bioavailability. Book chapter in press.
 
 **Fong, L.W.R.**, Zhang, S. A transcriptomics-based approach to the identification of drug combinations in personalized medicine. Nineteenth Rocky Mountain Bioinformatics Conference, Snowmass/Aspen, CO (2021).
+<br />
+**Associated GitHub repository [here](https://github.com/alonzowolfram/drug-combo-ML-model).**
 
 Chaudhari R, **Fong LW**, Tan Z, Huang B, Zhang S. An up-to-date overview of computational polypharmacology in modern drug discovery. Expert Opin Drug Discov. 2020;1‐20.
 
