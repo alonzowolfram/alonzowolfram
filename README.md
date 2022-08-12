@@ -1,5 +1,5 @@
 # Hello!
-I'm Lon, a biomedical data scientist with interest in health-related problems. 
+I'm Lon, a biomedical data scientist with interest in health-related problems. I work mostly in R, with a little bit of SQL and Python where necessary.
 
 I am completing my PhD in biomedical sciences with a concentration in Therapeutics and Pharmacology at the University of Texas MD Anderson Cancer Center. My dissertation work involves creating algorithms and pipelines to aid in clinical decision-making for personalized-medicine approaches. Here on my GitHub profile, I share some of my projects, including [implementing network-based scoring functions in R to predict drug efficacy in individual patients](https://github.com/alonzowolfram/network-scores), [discovery of potential ubiquitinases and deubiquitinases of oncogenes](https://github.com/alonzowolfram/ubiquitination-genes), and a [novel algorithm for clustering short peptides based on their sequences](https://github.com/alonzowolfram/peptide-clustering). 
 
