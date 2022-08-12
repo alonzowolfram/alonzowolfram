@@ -1,5 +1,5 @@
 # Hello!
-I'm Lon, a biomedical data scientist with interest in health-related problems. I work mostly in R, with a little bit of SQL and Python where necessary.
+I'm Lon, a biomedical data scientist with interest in health-related problems, cancer therapeutics in particular. I work mostly in R, with a little bit of SQL and Python where necessary.
 
 I am completing my PhD in biomedical sciences with a concentration in Therapeutics and Pharmacology at the University of Texas MD Anderson Cancer Center. My dissertation work involves creating algorithms and pipelines to aid in clinical decision-making for personalized-medicine approaches. Here on my GitHub profile, I share some of my projects, including <br />
  - :gear: [an XGBoost machine-learning model for drug-combination efficacy prediction, and pre-processing of individual patient gene-expression data for personalized-medicine applications](https://github.com/alonzowolfram/drug-combo-ML-model)<br />
