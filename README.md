@@ -7,8 +7,6 @@ I am completing my PhD in biomedical sciences with a concentration in Therapeuti
  - :dna: [discovery of potential ubiquitinases and deubiquitinases of oncogenes](https://github.com/alonzowolfram/ubiquitination-genes)<br />
  - :capital_abcd: [a novel algorithm for clustering short peptides based on their sequences](https://github.com/alonzowolfram/peptide-clustering) 
 
-Other projects are coming soon!
-
 # Skills
 ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
