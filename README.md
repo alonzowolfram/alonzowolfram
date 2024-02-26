@@ -1,11 +1,7 @@
 # Hello!
-I'm Lon, a biomedical data scientist with interest in health-related problems, cancer therapeutics in particular. I work mostly in R, with a little bit of SQL for large databases and Python for machine learning.
+I'm Lon, a biomedical data scientist on the PRIME-TR team at the University of Texas MD Anderson Cancer Center. As part of PRIME-TR, my research focuses on the human side of the microbiome's interaction with cancer development and response to therapy. I analyze transcriptomic and genomic data to understand the different pathways at work in tumor and immune cells in response to microbes or each other. 
 
-I have a PhD in biomedical sciences with a concentration in Therapeutics and Pharmacology at the University of Texas MD Anderson Cancer Center. My dissertation work involved creating algorithms and pipelines to aid in clinical decision-making for personalized-medicine approaches. Here on my GitHub profile, I share some of my projects, including <br />
- - :gear: [an XGBoost machine-learning model for drug-combination efficacy prediction, and pre-processing of individual patient gene-expression data for personalized-medicine applications](https://github.com/alonzowolfram/drug-combo-ML-model)<br />
- - :pill: [network analysis to predict drug efficacy in individual patients](https://github.com/alonzowolfram/network-scores)<br />
- - :dna: [discovery of potential ubiquitinases and deubiquitinases of oncogenes](https://github.com/alonzowolfram/ubiquitination-genes)<br />
- - :capital_abcd: [a novel algorithm for clustering short peptides based on their sequences](https://github.com/alonzowolfram/peptide-clustering) 
+I have a PhD in biomedical sciences with a concentration in Therapeutics and Pharmacology at the University of Texas MD Anderson Cancer Center. My dissertation work involved creating algorithms and pipelines to aid in clinical decision-making for personalized-medicine approaches.
 
 # Skills
 ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
