@@ -22,7 +22,6 @@ I have a PhD in biomedical sciences with a concentration in Therapeutics and Pha
 
 **Fong, L.W.R.**, Zhang, S. A transcriptomics-based approach to the identification of drug combinations in personalized medicine. Nineteenth Rocky Mountain Bioinformatics Conference, Snowmass/Aspen, CO (2021).
 <br />
-**Associated GitHub repository [here](https://github.com/alonzowolfram/drug-combo-ML-model).**
 
 Chaudhari R, **Fong LW**, Tan Z, Huang B, Zhang S. An up-to-date overview of computational polypharmacology in modern drug discovery. Expert Opin Drug Discov. 2020;1‐20.
 
