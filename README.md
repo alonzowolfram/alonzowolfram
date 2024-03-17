@@ -13,13 +13,10 @@ I have a PhD in biomedical sciences with a concentration in Therapeutics and Pha
 
 # Publications and presentations
 **Fong, L.W.R.**, Zhang, S. A comparison of network-based scoring methods to identify drug combinations in personalized medicine. Manuscript in revision.<br />
-**Associated GitHub repository [here](https://github.com/alonzowolfram/network-scores).**
 
 **Fong, L.W.R.**, Zhang, S. A transcriptomics-based approach to the identification of drug combinations in personalized medicine. Manuscript in revision.<br />
-**Associated GitHub repository [here](https://github.com/alonzowolfram/drug-combo-ML-model).**
 
 **Fong, L.W.R.**, Lee, J., Lin, H.-K., Ueno, N.T., Zhang, S. A gene signature consisting of ubiquitin ligases and deubiquitinating enzymes of SKP2 is associated with clinical outcome in breast cancer. Sci Rep 12, 2478 (2022).<br />
-**Associated GitHub repository [here](https://github.com/alonzowolfram/ubiquitination-genes).**
 
 **Fong, L.W.R.**, Huang, B., Chaudhari, R., Zhang, S. Computational modeling of drug oral bioavailability. Book chapter in press.
 
