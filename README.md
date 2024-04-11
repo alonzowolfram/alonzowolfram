@@ -3,7 +3,7 @@ I'm Lon, a biomedical data scientist on the PRIME-TR team at the University of T
 
 I have a PhD in biomedical sciences with a concentration in Therapeutics and Pharmacology from the University of Texas MD Anderson Cancer Center UTHealth Houston Graduate School of Biomedical Sciences. My dissertation work involved creating algorithms and pipelines to aid in clinical decision-making for personalized-medicine approaches.
 
-# Skills
+# Tools I use
 ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
